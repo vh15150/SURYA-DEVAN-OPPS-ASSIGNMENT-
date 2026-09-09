@@ -1,0 +1,20 @@
+class InvalidDataLimitException extends Exception {
+    InvalidDataLimitException(String message) {
+        super(message);
+    }
+}
+
+public class ProblemC {
+    public static void main(String[] args) {
+        int dataLimit = -5;
+
+        try {
+            if (dataLimit < 0)
+                throw new InvalidDataLimitException("Invalid Data Limit");
+
+            System.out.println("Valid Data Limit");
+        } catch (InvalidDataLimitException e) {
+            System.out.println(e.getMessage());
+        }
+    }
+}
