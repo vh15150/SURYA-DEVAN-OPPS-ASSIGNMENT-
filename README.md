@@ -26,4 +26,17 @@ Recharge Type: Prepaid
 
 Recharge successful**
 
+Problem C
+
+Problem Statement
+
+Create a custom exception InvalidDataLimitException, thrown when the data limit is entered as negative.
+
+Assigned Data
+
+Data Limit: -5 GB
+
+Sample Output
+
+Invalid Data Limit
 
