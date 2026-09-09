@@ -13,4 +13,17 @@ Plan Name: Premium Postpaid
 Data Limit: 50.0 GB
 Billing Cycle: Monthly
 
+## Problem B
+### Problem Statement
+
+Define an abstract class Recharge with abstract method
+processRecharge(). Extend it with a class PrepaidRecharge.
+### Assigned Data
+
+Recharge Type: Prepaid
+
+### Sample Output
+
+Recharge successful**
+
 
