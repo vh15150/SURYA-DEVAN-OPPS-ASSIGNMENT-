@@ -1,10 +1,7 @@
 # OOP Assignment 1
 
 ## Students
-
-1.SARANYA DEVI S 
-2. SRISHAH P
-3. SURYA DEVAN A
+ SURYA DEVAN A
 
 
 ## Problem A
