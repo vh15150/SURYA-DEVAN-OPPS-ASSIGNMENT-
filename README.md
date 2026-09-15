@@ -1,4 +1,4 @@
-# OOP Assignment 1
+# OOPS Assignment 1
 
 ## Students
  SURYA DEVAN A
